@@ -1,0 +1,152 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "Unnamed: 0": {
+            "sdtype": "numerical"
+        },
+        "state_code": {
+            "sdtype": "categorical"
+        },
+        "latitude": {
+            "sdtype": "numerical"
+        },
+        "longitude": {
+            "sdtype": "numerical"
+        },
+        "zip_code": {
+            "sdtype": "categorical"
+        },
+        "id": {
+            "sdtype": "categorical"
+        },
+        "city": {
+            "sdtype": "categorical"
+        },
+        "Unnamed: 6": {
+            "sdtype": "categorical"
+        },
+        "name": {
+            "sdtype": "categorical"
+        },
+        "labels": {
+            "sdtype": "numerical"
+        },
+        "founded_at": {
+            "sdtype": "categorical"
+        },
+        "closed_at": {
+            "sdtype": "categorical"
+        },
+        "first_funding_at": {
+            "sdtype": "categorical"
+        },
+        "last_funding_at": {
+            "sdtype": "categorical"
+        },
+        "age_first_funding_year": {
+            "sdtype": "numerical"
+        },
+        "age_last_funding_year": {
+            "sdtype": "numerical"
+        },
+        "age_first_milestone_year": {
+            "sdtype": "numerical"
+        },
+        "age_last_milestone_year": {
+            "sdtype": "numerical"
+        },
+        "relationships": {
+            "sdtype": "numerical"
+        },
+        "funding_rounds": {
+            "sdtype": "numerical"
+        },
+        "funding_total_usd": {
+            "sdtype": "numerical"
+        },
+        "milestones": {
+            "sdtype": "numerical"
+        },
+        "state_code.1": {
+            "sdtype": "categorical"
+        },
+        "is_CA": {
+            "sdtype": "numerical"
+        },
+        "is_NY": {
+            "sdtype": "numerical"
+        },
+        "is_MA": {
+            "sdtype": "numerical"
+        },
+        "is_TX": {
+            "sdtype": "numerical"
+        },
+        "is_otherstate": {
+            "sdtype": "numerical"
+        },
+        "category_code": {
+            "sdtype": "categorical"
+        },
+        "is_software": {
+            "sdtype": "numerical"
+        },
+        "is_web": {
+            "sdtype": "numerical"
+        },
+        "is_mobile": {
+            "sdtype": "numerical"
+        },
+        "is_enterprise": {
+            "sdtype": "numerical"
+        },
+        "is_advertising": {
+            "sdtype": "numerical"
+        },
+        "is_gamesvideo": {
+            "sdtype": "numerical"
+        },
+        "is_ecommerce": {
+            "sdtype": "numerical"
+        },
+        "is_biotech": {
+            "sdtype": "numerical"
+        },
+        "is_consulting": {
+            "sdtype": "numerical"
+        },
+        "is_othercategory": {
+            "sdtype": "numerical"
+        },
+        "object_id": {
+            "sdtype": "categorical"
+        },
+        "has_VC": {
+            "sdtype": "numerical"
+        },
+        "has_angel": {
+            "sdtype": "numerical"
+        },
+        "has_roundA": {
+            "sdtype": "numerical"
+        },
+        "has_roundB": {
+            "sdtype": "numerical"
+        },
+        "has_roundC": {
+            "sdtype": "numerical"
+        },
+        "has_roundD": {
+            "sdtype": "numerical"
+        },
+        "avg_participants": {
+            "sdtype": "numerical"
+        },
+        "is_top500": {
+            "sdtype": "numerical"
+        },
+        "status": {
+            "sdtype": "categorical"
+        }
+    }
+}

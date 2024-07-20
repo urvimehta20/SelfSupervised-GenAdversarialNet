@@ -1,0 +1,163 @@
+{
+    "primary_key": "Unnamed: 0",
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "Unnamed: 0": {
+            "sdtype": "id"
+        },
+        "state_code": {
+            "sdtype": "categorical"
+        },
+        "latitude": {
+            "sdtype": "numerical"
+        },
+        "longitude": {
+            "sdtype": "numerical"
+        },
+        "zip_code": {
+            "sdtype": "unknown",
+            "pii": true
+        },
+        "id": {
+            "sdtype": "unknown",
+            "pii": true
+        },
+        "city": {
+            "sdtype": "unknown",
+            "pii": true
+        },
+        "Unnamed: 6": {
+            "sdtype": "unknown",
+            "pii": true
+        },
+        "name": {
+            "sdtype": "unknown",
+            "pii": true
+        },
+        "labels": {
+            "sdtype": "categorical"
+        },
+        "founded_at": {
+            "sdtype": "datetime",
+            "datetime_format": "%m/%d/%Y"
+        },
+        "closed_at": {
+            "sdtype": "datetime",
+            "datetime_format": "%m/%d/%Y"
+        },
+        "first_funding_at": {
+            "sdtype": "datetime",
+            "datetime_format": "%m/%d/%Y"
+        },
+        "last_funding_at": {
+            "sdtype": "datetime",
+            "datetime_format": "%m/%d/%Y"
+        },
+        "age_first_funding_year": {
+            "sdtype": "numerical"
+        },
+        "age_last_funding_year": {
+            "sdtype": "numerical"
+        },
+        "age_first_milestone_year": {
+            "sdtype": "numerical"
+        },
+        "age_last_milestone_year": {
+            "sdtype": "numerical"
+        },
+        "relationships": {
+            "sdtype": "numerical"
+        },
+        "funding_rounds": {
+            "sdtype": "categorical"
+        },
+        "funding_total_usd": {
+            "sdtype": "numerical"
+        },
+        "milestones": {
+            "sdtype": "categorical"
+        },
+        "state_code.1": {
+            "sdtype": "categorical"
+        },
+        "is_CA": {
+            "sdtype": "categorical"
+        },
+        "is_NY": {
+            "sdtype": "categorical"
+        },
+        "is_MA": {
+            "sdtype": "categorical"
+        },
+        "is_TX": {
+            "sdtype": "categorical"
+        },
+        "is_otherstate": {
+            "sdtype": "categorical"
+        },
+        "category_code": {
+            "sdtype": "categorical"
+        },
+        "is_software": {
+            "sdtype": "categorical"
+        },
+        "is_web": {
+            "sdtype": "categorical"
+        },
+        "is_mobile": {
+            "sdtype": "categorical"
+        },
+        "is_enterprise": {
+            "sdtype": "categorical"
+        },
+        "is_advertising": {
+            "sdtype": "categorical"
+        },
+        "is_gamesvideo": {
+            "sdtype": "categorical"
+        },
+        "is_ecommerce": {
+            "sdtype": "categorical"
+        },
+        "is_biotech": {
+            "sdtype": "categorical"
+        },
+        "is_consulting": {
+            "sdtype": "categorical"
+        },
+        "is_othercategory": {
+            "sdtype": "categorical"
+        },
+        "object_id": {
+            "sdtype": "unknown",
+            "pii": true
+        },
+        "has_VC": {
+            "sdtype": "categorical"
+        },
+        "has_angel": {
+            "sdtype": "categorical"
+        },
+        "has_roundA": {
+            "sdtype": "categorical"
+        },
+        "has_roundB": {
+            "sdtype": "categorical"
+        },
+        "has_roundC": {
+            "sdtype": "categorical"
+        },
+        "has_roundD": {
+            "sdtype": "categorical"
+        },
+        "avg_participants": {
+            "sdtype": "numerical"
+        },
+        "is_top500": {
+            "sdtype": "categorical"
+        },
+        "status": {
+            "sdtype": "categorical"
+        }
+    }
+}

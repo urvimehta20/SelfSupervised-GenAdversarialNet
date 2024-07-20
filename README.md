@@ -14,4 +14,6 @@ It has 2 main workflows:
 - Synthetic Data Generation (using GAN)
 - Synthetic Data Evaluation (using Ensemble Modeling)
 
+![alt text](ezgif.com-optimize.gif)
+
 
